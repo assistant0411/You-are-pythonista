@@ -224,6 +224,7 @@ def show_image_in_text():
     msg = MIMEMultipart()
 
     msg['From'] = account
+    msg['From'] = account
     msg['To'] = msg_to
     msg['Subject'] = 'python 显示图片在邮件正文中'
 
