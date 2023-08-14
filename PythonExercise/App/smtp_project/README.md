@@ -4,6 +4,7 @@
 
 ### 演示环境
 * 操作系统：windows10
+* 操作系统：windows10
 * python版本：python 3.7
 * 代码编辑器：pycharm 2018.2
 * 使用模块：email, smtplib
