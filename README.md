@@ -4,6 +4,7 @@
 【人人都是Pythonista】由公众号【Python专栏】推出，请认准唯一标识：
 
 <div align="center">
+    <img src = "">
     <img width="40%" src="https://raw.githubusercontent.com/MiracleYoung/You-are-Pythonista/master/Static/image/logo.gif" alt="公众号二维码">
 </div>
 
